@@ -32,3 +32,7 @@ Acesse a aplicação:
 Swagger UI: http://localhost:8080/swagger-ui/index.html
 
 API Docs JSON: http://localhost:8080/v3/api-docs
+
+<img width="500" height="500" alt="Badge-Spring" src="https://github.com/user-attachments/assets/8a5fb1d0-46c3-4598-8443-a4eeccb2bc93" />
+
+
